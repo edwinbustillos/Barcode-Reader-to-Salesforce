@@ -60,5 +60,5 @@ global with sharing class apiAddProducts {
 }
 ```
 
-### Donation by PayPal
+### Donations
 ![QRCodePaypalEdwinBustillos](https://user-images.githubusercontent.com/49764231/122661290-f4da2480-d15e-11eb-93bc-cc80c39e9483.png)
